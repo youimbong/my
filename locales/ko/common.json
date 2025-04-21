@@ -1,0 +1,33 @@
+{
+  "title": "개인 포트폴리오",
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "projects": "프로젝트",
+    "contact": "연락처"
+  },
+  "hero": {
+    "greeting": "안녕하세요, 저는",
+    "name": "당신의 이름",
+    "role": "소프트웨어 개발자",
+    "description": "현대적인 웹 애플리케이션과 디지털 경험을 만듭니다"
+  },
+  "about": {
+    "title": "소개",
+    "description": "저는 현대적인 기술을 사용하여 웹 애플리케이션을 구축한 경험이 있는 열정적인 소프트웨어 개발자입니다. 복잡한 문제에 대한 우아한 솔루션을 만드는 것을 즐깁니다."
+  },
+  "projects": {
+    "title": "프로젝트",
+    "viewAll": "전체보기",
+    "viewProject": "프로젝트 보기"
+  },
+  "contact": {
+    "title": "연락하기",
+    "email": "이메일",
+    "message": "메시지",
+    "send": "메시지 보내기"
+  },
+  "footer": {
+    "rights": "모든 권리 보유"
+  }
+}

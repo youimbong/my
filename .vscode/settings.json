@@ -1,0 +1,28 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+	"files.exclude": {
+		"out": false // set this to true to hide the "out" folder with the compiled JS files
+	},
+	"search.exclude": {
+		"out": true // set this to false to include "out" folder in search results
+	},
+	// Turn off tsc task auto detection since we have the necessary tasks as npm scripts
+	"typescript.tsc.autoDetect": "off",
+	
+	// Variable Translator Extension Settings
+	"val-translator.defaultFormat": "camelCase",
+	"val-translator.translationMode": "claude",
+	"val-translator.useAI": true,
+	"val-translator.claudeModel": "claude-3-sonnet-20240229",
+	"val-translator.openaiModel": "gpt-3.5-turbo",
+	"val-translator.showAllOptions": true,
+
+	// Environment variables for NVM
+	"terminal.integrated.env.linux": {
+		"NVM_DIR": "${env:HOME}/.nvm",
+		"PATH": "${env:HOME}/.nvm/versions/node/current/bin:${env:PATH}"
+	},
+	"terminal.integrated.shellArgs.linux": [
+		"-l"
+	]
+}

@@ -1,0 +1,19 @@
+{
+  "environment": {
+    "NVM_DIR": "${env:HOME}/.nvm",
+    "PATH": "${env:HOME}/.nvm/versions/node/current/bin:${env:PATH}"
+  },
+  "terminalSettings": {
+    "integrated": {
+      "env": {
+        "linux": {
+          "NVM_DIR": "${env:HOME}/.nvm",
+          "PATH": "${env:HOME}/.nvm/versions/node/current/bin:${env:PATH}"
+        }
+      },
+      "shellArgs": {
+        "linux": ["-l"]
+      }
+    }
+  }
+} 

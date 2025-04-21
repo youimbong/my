@@ -1,0 +1,10 @@
+{
+  "title": "Portfolio",
+  "home": "Home",
+  "about": "About",
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View Project"
+  },
+  "contact": "Contact"
+} 

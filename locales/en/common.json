@@ -1,0 +1,33 @@
+{
+  "title": "Personal Portfolio",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Your Name",
+    "role": "Software Developer",
+    "description": "I build modern web applications and digital experiences"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate software developer with experience in building web applications using modern technologies. I enjoy creating elegant solutions to complex problems."
+  },
+  "projects": {
+    "title": "Projects",
+    "viewAll": "View All",
+    "viewProject": "View Project"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

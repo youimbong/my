@@ -1,0 +1,10 @@
+{
+  "title": "포트폴리오",
+  "home": "홈",
+  "about": "소개",
+  "projects": {
+    "title": "프로젝트",
+    "viewProject": "프로젝트 보기"
+  },
+  "contact": "연락처"
+} 
